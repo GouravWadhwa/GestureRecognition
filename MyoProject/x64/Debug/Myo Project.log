@@ -1,0 +1,17 @@
+﻿  DataCollector.cpp
+f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  GesturePrediction1.cpp
+f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  GesturePrediction2.cpp
+f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(39): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': function assumed not to throw an exception but does
+  f:\gesture recognition\myo project\myo project\myo-sdk-win-0.9.0\myo-sdk-win-0.9.0\include\myo\cxx\detail\throwonerror.hpp(45): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  Generating Code...
+  Myo Project.vcxproj -> F:\Gesture Recognition\Myo Project\x64\Debug\Myo Project.exe
